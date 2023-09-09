@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Recode Media Lookup
- * Author: Arufa Sari
+ * Author: Terrific Objects
  * Version: 1.0.0
  */
 
